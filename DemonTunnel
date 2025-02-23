@@ -1,5 +1,5 @@
 {
-    "latestVersion": "23.0.0.23",
+    "latestVersion": "2.7",
     "updateUrl": "https://example.com/app-latest.apk",
     "forceUpdate": true,
     "changelog": [
