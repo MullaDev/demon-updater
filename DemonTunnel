@@ -1,13 +1,6 @@
 {
-    "latestVersion": "2.7",
-    "updateUrl": "https://example.com/app-latest.apk",
-    "forceUpdate": true,
-    "changelog": [
-        "Some bugs fixed",
-        "Config update fixed",
-        "Imported config fixed",
-        "v2Ray improved",
-        "Performance improved",
-        "Clean & Optimize"
-    ]
-}
+       "version_code": 2,
+       "version_name": "1.1",
+       "update_message": "A new version is available. Please update to continue using the app.",
+       "download_url": "https://github.com/yourusername/yourrepo/releases/download/v1.1/app-release.apk"
+     }
